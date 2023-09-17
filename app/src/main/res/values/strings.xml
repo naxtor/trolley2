@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trolley</string>
+    <string name="title_login_screen">Selamat Datang</string>
+    <string name="subtitle_login_screen">Masukkan email dan password dari akun yang pernah kamu buat sebelumnya.</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_username">Masukkan username</string>
+    <string name="title_username">Username</string>
+    <string name="title_password">Password</string>
+    <string name="hint_password">Masukkan password</string>
+    <string name="title_login">Masuk</string>
+    <string name="error_username_empty">Username tidak boleh kosong.</string>
+    <string name="error_password_empty">Password tidak boleh kosong.</string>
+    <string name="error_login_failed">Username atau password salah!</string>
+    <string name="title_login_error">Login Gagal</string>
+    <string name="home">Home</string>
+    <string name="notifications">Account</string>
+    <string name="title_buy">Beli</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
